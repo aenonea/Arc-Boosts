@@ -17,7 +17,7 @@ Click on the image corresponding to the boost you're interested in to get to the
 
 <br>
 
-##### Note:
+###### Note:
 
 ###### _[æno's Boosts for Arc](https://github.com/aenonea/Arc-Boost) is not affiliated, associated, authorized, endorsed by, or in any way officially connected with [The Browser Company](https://thebrowser.company/) or any of its subsidiaries or its affiliates._
 
