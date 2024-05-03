@@ -6,8 +6,8 @@ My personal collection of Arc boosts for cleaning websites that I use a lot. Use
 
 ## Boosts Gallery
 
-| [![Clean Gmail banner](imgs/boosts/clean_gmail.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_gmail) | [![Clean DeviantArt banner](imgs/boosts/clean_deviantart.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_deviantart) | [![Clean Pinterest banner](imgs/boosts/clean_pinterest.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_pinterest) |
-| :---------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+| [![Clean Gmail card](imgs/boosts/clean_gmail/card.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_gmail) | [![Clean DeviantArt card](imgs/boosts/clean_deviantart/card.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_deviantart) | [![Clean Pinterest card](imgs/boosts/clean_pinterest/card.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_pinterest) |
+| :------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 
 Click on the image corresponding to the boost you're interested in to get to its details and download page.
 
