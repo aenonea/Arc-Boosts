@@ -11,7 +11,7 @@ My personal Arc boosts collection to clean and add some functionalities to the w
 
 Click on the image corresponding to the boost you're interested in to get to its details and download page :\)
 
-<br>
+<br><br>
 
 [![Footer Banner](assets/imgs/footer_banner.svg)](https://github.com/aenonea)
 
