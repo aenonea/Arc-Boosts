@@ -2,11 +2,11 @@
 
 My personal Arc boosts collection to clean and add some functionalities to the websites I use a lot.
 
-![æno’s boosts for arc banner](assets/imgs/banner.png)
+![æno’s boosts for arc banner](assets/imgs/banner.svg)
 
 ## Boosts Gallery
 
-| [![Clean Gmail banner](assets/imgs/boosts/clean_gmail.png)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_gmail) | [![Clean DeviantArt banner](assets/imgs/boosts/clean_deviantart.png)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_deviantart) | [![Clean Pinterest banner](assets/imgs/boosts/clean_pinterest.png)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_pinterest) |
+| [![Clean Gmail banner](assets/imgs/boosts/clean_gmail.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_gmail) | [![Clean DeviantArt banner](assets/imgs/boosts/clean_deviantart.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_deviantart) | [![Clean Pinterest banner](assets/imgs/boosts/clean_pinterest.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_pinterest) |
 | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 
 #### Made with ![Love](assets/imgs/heart.svg) by [æno](https://github.com/aenonea).
