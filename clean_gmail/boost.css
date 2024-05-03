@@ -1,0 +1,157 @@
+/* --- CLEAN GMAIL --- */
+
+/**
+ * Name: Clean Gmail
+ * Author: æno
+ * Description:
+ * Modified version Source: https://github.com/aenonea/
+ *
+ * Original Boost Information
+ * Name: Enhanced Gmail
+ * Author: Xilantra
+ * Source: https://github.com/Xilantra/enhanced-gmail
+ */
+
+/* Search bar light mode */
+form.aJf {
+  background-color: #ffffff !important;
+}
+
+/* Search bar dark mode */
+/* lg */
+header.gb_ua.gb_6a.gb_Ve.gb_aa.gb_Ud #aso_search_form_anchor,
+/* xl */
+header.gb_ua.gb_6a.gb_Ve.gb_aa.gb_Rc #aso_search_form_anchor {
+  background: #000 !important;
+}
+
+/* Search bar dark mode input text */
+header[role="banner"] .gb_ef {
+  color: rgb(226, 226, 226) !important;
+}
+
+/* Search bar: Dark mode */
+header[role="banner"] .gb_ef,
+/* Search bar: Light mode */
+#gb .gb_ef {
+  text-align: center;
+}
+
+/* Search bar: Dark mode */
+header[role="banner"] .gb_ef:focus,
+/* Search bar: Light mode */
+#gb .gb_ef:focus,
+/* Text suggestion input */
+input#gs_taif50 {
+  text-align: left !important;
+}
+
+/* Text suggestion input */
+input#gs_taif50 {
+  opacity: 0.4;
+}
+
+/* Search bar */
+.nH .qp .aJf[method="get"][role="search"] {
+  margin: 0 auto !important;
+}
+
+/* Right side panel */
+.brC-dA-I.aT5-aOt-I-Jp,
+/* Left side bar button dark mode */
+/* .WR.aeN, */
+.aeN.WR.a6o.anZ.nH.oy8Mbf,
+/* Active text */
+.Yc,
+/* Support */
+.zo,
+/* Google Apps icon */
+[aria-label="Google apps"],
+.gb_Vd.gb_Xa.gb_Kd.gb_Zd .gb_Sc {
+  display: none !important;
+}
+
+/* Long Compose Button */
+.z0 > .L3 {
+  width: 100%;
+  margin-right: 12px !important;
+}
+
+/* Top nav items */
+.gb_Pd.gb_0d.gb_Se.gb_Ie {
+  transform: translateY(8px);
+}
+
+/* header[role="banner"]:hover .gb_Sc  */
+#gb:hover .gb_Pd.gb_0d.gb_Se.gb_Ie {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0px);
+}
+
+/* The top right Setting & Status icons */
+.gb_qe.gb_oe,
+.gb_ve.gb_te {
+  min-width: 118px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+/* Mail item list dark mode */
+.ae4.aTP.aDM.nH.oy8Mbf .zA:hover,
+/* Mail item list light mode */
+.ae4.aDM.nH.oy8Mbf .zA:hover {
+  box-shadow: none !important;
+}
+
+/* Mail item list dark mode */
+.ae4.aTP.aDM.nH.oy8Mbf .zA.zE:hover {
+  background-color: #111111;
+}
+
+/* Mail item list light mode */
+.ae4.aDM.nH.oy8Mbf:not(.Nu.tf.aZ6 .ae4.aDM.nH.oy8Mbf) .zA:hover {
+  background-color: #e4e4e4;
+}
+
+/* Mail item read (Everything Else) list dark mode */
+.Nu.tf.aZ6 .ae4.aDM.nH.oy8Mbf .zA.yO:hover {
+  background-color: #2c2c2c;
+}
+
+/* Light mode main frame: opened */
+.bhZ + .bkK {
+  margin-left: 16px !important;
+}
+
+/* Top nav items */
+.gb_Pd.gb_0d.gb_Se.gb_Ie,
+/* Light mode left sidebar */
+.aeN.WR.nH.oy8Mbf.bhZ {
+  visibility: hidden;
+  opacity: 0;
+}
+
+/* Top bar icons */
+.nH.aUx,
+.gb_Ud.gb_Ne .gb_Se button,
+.Yb.dIH7rb,
+[aria-label="Advanced search options"],
+[data-tooltip="Settings"],
+/* Compose Button default */
+.z0>.L3,
+/* Top nav items */
+.gb_Pd.gb_0d.gb_Se.gb_Ie,
+/* Light mode main frame */
+.bhZ+.bkK,
+.bkK,
+/* Mail item list */
+.zA {
+  transition: all 0.24s ease-in-out;
+}
+
+/* Reposition search filters window */
+.ZF-Av {
+  left: 424px !important;
+}

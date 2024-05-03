@@ -1,0 +1,91 @@
+/* --- CLEAN DEVIANTART --- */
+
+/**
+ * Name: Clean DeviantArt
+ * Author: æno
+ * Description:
+ * Source: https://github.com/aenonea/
+ */
+
+/* -- Basic tweaks to minimize informations -- */
+/* Removes separators, “Watch”, “Shop”, “Notifications”, “Upgrade to Core”, “More” (menu), “Notes” and “Submit” buttons */
+/* Separators */
+._3AEsy,
+/* “Watch” button */
+[role="banner"] :has(> [href*="watch"]),
+/* “Shop” button */
+[role="banner"] a[href*="shop"],
+/* “Notifications” button */
+[role="banner"] :has(> div > [href*="notifications"]),
+/* “Upgrade to Core” button */
+[role="banner"] a[href*="core-membership"],
+/* Space between search bar and right side of the header */
+[role="banner"] :has(> [aria-label="More"]) > :first-child,
+/* “More” button */
+[role="banner"] [aria-label="More"],
+/* “Notes” button */
+[role="banner"] :has(> [aria-label="More"]) > div:has(> [aria-controls*="notes"]),
+/* “Submit” button */
+[role="banner"] :has(> div > [id*="submit"]) {
+  display: none !important;
+}
+
+/* Changes search bar width to its maximum and add a margin-right */
+header > form {
+  width: 100% !important;
+  margin-right: 24px !important;
+}
+
+/* Removes “Daily Challenges”, “DreamUp” and “Groups” related buttons from sidebar */
+/* “Daily Challenges” button*/
+:first-child:has(> [aria-label="Daily\ Challenges"]),
+/* “Dream Up” button */
+:first-child:has(> [aria-label="DreamUp"]),
+/* “Group” area */
+:has(> div > div > div > div > div > [aria-label*="Group"]),
+/* “Recommended Groups” area */
+:has(> div > div > [aria-label*="Group"]) {
+  display: none !important;
+}
+
+/* -- Changes header -- */
+
+/* Removes “Deviations” and “Posts” tabs */
+header div:has(> div > div > [href*="posts"]) {
+  display: none !important;
+}
+
+/* Set header's background color to the page's background color */
+/* Most headers */
+div:has(> header),
+/* Followed people area */
+main > div > section:has(> span + a + div + div),
+/* “Deviants You Watch” header */
+main > div > div:has(> header) {
+  background: var(--g-bg-primary) !important;
+}
+
+/* Removes header's padding-bottom */
+main > div:has(> div + button + button) {
+  margin-top: 0 !important;
+}
+
+/* -- Removes pay to use options -- */
+
+/* Removes “core membership” and “shop” banners  */
+/* “core membership” banners */
+:has(> aside > div > [href*="core-membership"]),
+/* “shop” banners */
+:has(> aside > div > [href*="shop"]) {
+  display: none !important;
+}
+
+/* Removes “Award a badge” button */
+span:has(> div > div > button[aria-label*="badge"]) {
+  display: none !important;
+}
+
+/* Subscription posts */
+:has(> div > div > div > div > div > span[role="button"][class*="reset-button"]) {
+  display: none !important;
+}

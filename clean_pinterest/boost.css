@@ -1,0 +1,43 @@
+/* --- CLEAN PINTEREST --- */
+
+/**
+ * Name: Clean Pinterest
+ * Author: æno
+ * Description:
+ * Source: https://github.com/aenonea/
+ */
+
+/* Removes notifications and messages buttons */
+[aria-label="Notifications"],
+[aria-label="Messages"] {
+  display: none !important;
+}
+
+/* Removes “Install the Chrome app”, “Your privacy rights”, “Help center”, “Terms of service”, “Privacy policy”, “Be a beta tester” buttons from the menu popover */
+#HeaderAccountOptionsFlyout-item-3,
+[role="menuitem"][data-test-id*="privacy"],
+[role="menuitem"][data-test-id*="help"],
+[role="menuitem"][data-test-id*="tos"],
+[role="menuitem"][data-test-id*="policy"],
+[role="menuitem"][data-test-id*="beta-tester"] {
+  display: none !important;
+}
+
+/* Removes pin titles and authors */
+.hs0.ujU.un8.C9i.TB_:has(> [data-test-id="pointer-events-wrapper"]) {
+  display: none !important;
+}
+.Yl-.MIw.Hb7[style*="height"] {
+  height: auto !important;
+}
+
+/* Hide search suggestions bar when scrolling */
+:has(> div > [data-root-margin="search-one-bar"]) {
+  position: relative !important;
+  top: 0 !important;
+}
+
+/* Removes ADS */
+:has(> div > div > div > div > div > div > [data-test-id="otpp"]) {
+  display: none !important;
+}
