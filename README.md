@@ -11,4 +11,6 @@ My personal Arc boosts collection to clean and add some functionalities to the w
 
 #### Made with ![Love](assets/imgs/heart.svg) by [æno](https://github.com/aenonea).
 
-##### [æno's Boosts for Arc](https://github.com/aenonea/Arc-Boosts) is not affiliated, associated, authorized, endorsed by, or in any way officially connected with [The Browser Company](https://thebrowser.company/) or any of its subsidiaries or its affiliates.
+---
+
+###### _[æno's Boosts for Arc](https://github.com/aenonea/Arc-Boosts) is not affiliated, associated, authorized, endorsed by, or in any way officially connected with [The Browser Company](https://thebrowser.company/) or any of its subsidiaries or its affiliates._
