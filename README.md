@@ -4,9 +4,11 @@ My personal Arc boosts collection to clean and add some functionalities to the w
 
 ![æno’s boosts for arc banner](assets/imgs/banner.png)
 
-## Boost Gallery
+## Boosts Gallery
 
 | [![Clean Gmail banner](assets/imgs/boosts/clean_gmail.png)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_gmail) | [![Clean DeviantArt banner](assets/imgs/boosts/clean_deviantart.png)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_deviantart) | [![Clean Pinterest banner](assets/imgs/boosts/clean_pinterest.png)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_pinterest) |
 | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 
-#### [æno's Boosts for Arc](https://github.com/aenonea/Arc-Boosts/tree/main) is not affiliated to [The Browser Company](https://thebrowser.company/).
+#### Made with ![Love](assets/imgs/heart.svg) by [æno](https://github.com/aenonea).
+
+##### [æno's Boosts for Arc](https://github.com/aenonea/Arc-Boosts) is not affiliated, associated, authorized, endorsed by, or in any way officially connected with [The Browser Company](https://thebrowser.company/) or any of its subsidiaries or its affiliates.
