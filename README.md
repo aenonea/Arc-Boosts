@@ -11,6 +11,8 @@ My personal Arc boosts collection to clean and add some functionalities to the w
 
 _Click on the image corresponding to the boost you're interested in to get to the details and download page :\)_
 
----
+<br>
+
+[![Footer Banner](assets/imgs/footer_banner.svg)](https://github.com/aenonea)
 
 ###### _[æno's Boosts for Arc](https://github.com/aenonea/Arc-Boosts) is not affiliated, associated, authorized, endorsed by, or in any way officially connected with [The Browser Company](https://thebrowser.company/) or any of its subsidiaries or its affiliates._
