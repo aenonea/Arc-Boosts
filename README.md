@@ -9,7 +9,7 @@ My personal Arc boosts collection to clean and add some functionalities to the w
 | [![Clean Gmail banner](assets/imgs/boosts/clean_gmail.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_gmail) | [![Clean DeviantArt banner](assets/imgs/boosts/clean_deviantart.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_deviantart) | [![Clean Pinterest banner](assets/imgs/boosts/clean_pinterest.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_pinterest) |
 | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
 
-Click on the image corresponding to the boost you're interested in to get to the details and download page :\)
+Click on the image corresponding to the boost you're interested in to get to its details and download page :\)
 
 <br>
 
