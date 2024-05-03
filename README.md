@@ -2,18 +2,18 @@
 
 My personal collection of Arc boosts for cleaning websites that I use a lot. Use them and adapt them to your liking.
 
-[![æno’s Boosts for Arc banner](assets/imgs/banner.svg)](https://github.com/aenonea/Arc-Boosts)
+[![æno’s Boosts for Arc banner](imgs/banner.svg)](https://github.com/aenonea/Arc-Boosts)
 
 ## Boosts Gallery
 
-| [![Clean Gmail banner](assets/imgs/boosts/clean_gmail.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_gmail) | [![Clean DeviantArt banner](assets/imgs/boosts/clean_deviantart.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_deviantart) | [![Clean Pinterest banner](assets/imgs/boosts/clean_pinterest.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_pinterest) |
-| :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| [![Clean Gmail banner](imgs/boosts/clean_gmail.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_gmail) | [![Clean DeviantArt banner](imgs/boosts/clean_deviantart.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_deviantart) | [![Clean Pinterest banner](imgs/boosts/clean_pinterest.svg)](https://github.com/aenonea/Arc-Boosts/tree/main/clean_pinterest) |
+| :---------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 
 Click on the image corresponding to the boost you're interested in to get to its details and download page.
 
 <br><br>
 
-[![Footer Banner](assets/imgs/footer_banner.svg)](https://github.com/aenonea)
+[![Footer Banner](imgs/footer_banner.svg)](https://github.com/aenonea)
 
 <br>
 
