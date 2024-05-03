@@ -10,7 +10,7 @@
 /* -- Basic tweaks to minimize informations -- */
 /* Removes separators, “Watch”, “Shop”, “Notifications”, “Upgrade to Core”, “More” (menu), “Notes” and “Submit” buttons */
 /* Separators */
-._3AEsy,
+._3AEsy, .rn9IN,
 /* “Watch” button */
 [role="banner"] :has(> [href*="watch"]),
 /* “Shop” button */
@@ -82,10 +82,5 @@ main > div:has(> div + button + button) {
 
 /* Removes “Award a badge” button */
 span:has(> div > div > button[aria-label*="badge"]) {
-  display: none !important;
-}
-
-/* Subscription posts */
-:has(> div > div > div > div > div > span[role="button"][class*="reset-button"]) {
   display: none !important;
 }
