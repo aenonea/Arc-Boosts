@@ -2,7 +2,7 @@
 
 My personal Arc boosts collection to clean and add some functionalities to the websites I use a lot.
 
-[![æno’s boosts for arc banner](assets/imgs/banner.svg)](https://github.com/aenonea/Arc-Boosts)
+[![æno’s Boosts for Arc banner](assets/imgs/banner.svg)](https://github.com/aenonea/Arc-Boosts)
 
 ## Boosts Gallery
 
