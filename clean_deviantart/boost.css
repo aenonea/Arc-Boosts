@@ -48,6 +48,18 @@ header > form {
   display: none !important;
 }
 
+/* Removes “Recommended for You” section in “Deviants You Watch” */
+:has(
+    > section
+      > ul
+      > li
+      + li
+      + li
+      > button[aria-label="Don't suggest this user anymore"]
+  ) {
+  display: none !important;
+}
+
 /* -- Changes header -- */
 
 /* Removes “Deviations” and “Posts” tabs */
