@@ -13,7 +13,7 @@ Click on the image corresponding to the boost you’re interested in to get to i
 
 <br><br>
 
-[![Footer Banner](imgs/footer_banner.svg)](https://github.com/aenonea)
+[![Footer banner](imgs/footer_banner.svg)](https://github.com/aenonea)
 
 <br>
 
