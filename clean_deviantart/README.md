@@ -6,7 +6,7 @@
 
 ## Description
 
-<p style="text-align:justify">
+<p align="justify">
   The aim of this boost is to simplify DeviantArt’s interface.<br>
   <br>
   I use DeviantArt in much the same way as I use Pinterest: my only interest is to find inspiration and images that I enjoy looking at. I don’t create, don’t want to buy anything and don’t want to be part of groups. So I’ve removed most of these features, which I feel only make the site more complex than it needs to be. As I don’t wish to become a Core member, I’ve also removed the far too numerous banners inviting me to “Upgrade to Core”. These tweaks give a much simpler look to DeviantArt and let images and my wallet breath.
@@ -24,10 +24,10 @@
 
 <br>
 
-###### Note:
-
-<p style="text-align:justify; font-size:.85em;">
-  <a href="https://github.com/aenonea/Arc-Boost">æno’s Boosts for Arc</a> is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://thebrowser.company/">The Browser Company</a> or any of its subsidiaries or its affiliates.<br>
+<h6 align="justify">
+  Note:<br>
   <br>
-  This project contains images sourced from the internet that are assumed to be in the public domain and are used to provide visual context. These images are not monetized or used for commercial gain. All rights and credits belong to their respective owners. If any copyright owner objects to the use of any image, please contact me, and I will take appropriate action.
-</p>
+  <em><a href="https://github.com/aenonea/Arc-Boost">æno’s Boosts for Arc</a> is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://thebrowser.company/">The Browser Company</a> or any of its subsidiaries or its affiliates.<br>
+  <br>
+  This project contains images sourced from the internet that are assumed to be in the public domain and are used to provide visual context. These images are not monetized or used for commercial gain. All rights and credits belong to their respective owners. If any copyright owner objects to the use of any image, please contact me, and I will take appropriate action.</em>
+</h6>
