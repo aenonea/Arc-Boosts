@@ -1,4 +1,4 @@
-# [æno](https://github.com/aenonea)’s Boosts for Arc
+# æno’s Boosts for Arc
 
 <p style="text-align:justify;">
   My personal collection of Arc boosts for cleaning websites that I use a lot. Use them and adapt them to your liking.
