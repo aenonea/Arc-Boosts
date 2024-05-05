@@ -18,7 +18,7 @@ Modified by <a href="https://github.com/aenonea">@aenonea</a>
 
 ## Preview and Get the Boost
 
-| ![Gmail inbox with sidebar screenshot](../imgs/boosts/clean_gmail/screenshots/inbox_with_sidebar.svg) | ![Gmail inbox without sidebar screenshot](../imgs/boosts/clean_gmail/screenshots/inbox_without_sidebar.svg) | [![Clean Gmail “Get Boost” card](../imgs/boosts/clean_gmail/get_boost_card.svg)](https://arc.net/boost/046D7D26-1AE3-4404-931A-383D02EF0FA5) |
+| ![Gmail inbox with sidebar screenshot](../imgs/boosts/clean_gmail/screenshots/inbox_with_sidebar.png) | ![Gmail inbox without sidebar screenshot](../imgs/boosts/clean_gmail/screenshots/inbox_without_sidebar.png) | [![Clean Gmail “Get Boost” card](../imgs/boosts/clean_gmail/get_boost_card.svg)](https://arc.net/boost/046D7D26-1AE3-4404-931A-383D02EF0FA5) |
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <br><br>
