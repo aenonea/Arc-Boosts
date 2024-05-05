@@ -1,6 +1,6 @@
 # [æno’s Boosts for Arc](https://github.com/aenonea/Arc-Boosts) → Clean Gmail
 
-[![Clean Gmail banner](../imgs/boosts/clean_gmail/banner.svg)](https://github.com/aenonea/Arc-Boosts/clean_gmail)
+[![Clean Gmail banner](../imgs/boosts/clean_gmail/banner.svg)](#)
 
 <h6>
 By <a href="https://github.com/Xilantra">@Xilantra</a><br>

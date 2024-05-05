@@ -1,6 +1,6 @@
 # [æno’s Boosts for Arc](https://github.com/aenonea/Arc-Boosts) → Clean DeviantArt
 
-[![Clean DeviantArt banner](../imgs/boosts/clean_deviantart/banner.svg)](https://github.com/aenonea/Arc-Boosts/clean_deviantart)
+[![Clean DeviantArt banner](../imgs/boosts/clean_deviantart/banner.svg)](#)
 
 ###### By [@aenonea](https://github.com/aenonea)
 
