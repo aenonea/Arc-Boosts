@@ -12,8 +12,8 @@ Modified by <a href="https://github.com/aenonea">@aenonea</a>
 <p align="justify">
   The aim of this boost is to give Gmail a more minimal look.<br>
   <br>
-  To do so, this boost removes all the elements that clutter it up. The button for accessing the right-hand side panel (with calendar, notes, tasks and contacts) has been completely hidden, as it's of no use to me. For the same reason, the “Support” and “Google apps” buttons in the top right-hand corner have also been removed.<br>
-  Clean Gmail also gives a fresher look to the user interface, some elements being designed quite strangely. The search bar is now centered and has a white background for a better contrast and legibility for the user and the width of the "Compose" button now fills the sidebar.
+  To do so, this boost removes all the elements that clutter it up. The button for accessing the right-hand side panel (with calendar, notes, tasks and contacts) has been completely hidden, as it’s of no use to me. For the same reason, the “Support” and “Google apps” buttons in the top right-hand corner have also been removed.<br>
+  Clean Gmail also gives a fresher look to the user interface, some elements being designed quite strangely. The search bar is now centered and has a white background for a better contrast and legibility for the user and the width of the “Compose” button now fills the sidebar.
 <p>
 
 ## Preview and Get the Boost
