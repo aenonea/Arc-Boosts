@@ -16,9 +16,9 @@
 
 ## Preview and Get the Boost
 
-| ![Pinterest “Home” page screenshot](../imgs/boosts/clean_pinterest/screenshots/home.png) | ![Pinterest board screenshot](../imgs/boosts/clean_pinterest/screenshots/board.png) | ![Pinterest search scroll screenshot](../imgs/boosts/clean_pinterest/screenshots/search_scroll.png) |
-| :--------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-| ![Pinterest profile screenshot](../imgs/boosts/clean_pinterest/screenshots/profile.png)  |  ![Pinterest post screenshot](../imgs/boosts/clean_pinterest/screenshots/post.png)  |     [![Clean Pinterest “Get Boost” card](../imgs/boosts/clean_pinterest/get_boost_card.svg)]()      |
+| ![Pinterest “Home” page screenshot](../imgs/boosts/clean_pinterest/screenshots/home.png) | ![Pinterest board screenshot](../imgs/boosts/clean_pinterest/screenshots/board.png) |                         ![Pinterest search scroll screenshot](../imgs/boosts/clean_pinterest/screenshots/search_scroll.png)                          |
+| :--------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Pinterest profile screenshot](../imgs/boosts/clean_pinterest/screenshots/profile.png)  |  ![Pinterest post screenshot](../imgs/boosts/clean_pinterest/screenshots/post.png)  | [![Clean Pinterest “Get Boost” card](../imgs/boosts/clean_pinterest/get_boost_card.svg)](https://arc.net/boost/9E4C9864-C1F2-4B43-AFAF-E9861D8602E9) |
 
 <br><br>
 
